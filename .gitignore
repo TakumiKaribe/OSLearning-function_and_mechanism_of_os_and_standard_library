@@ -1,0 +1,7 @@
+*
+image_name
+!*/
+.vscode/*
+!*.*
+!Dockerfile
+*.DS_Store
